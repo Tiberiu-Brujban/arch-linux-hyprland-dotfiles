@@ -1,0 +1,92 @@
+* {
+    font-family: 'JetBrainsMono Nerd Font';
+    font-size: 12px;
+    font-weight: 800;
+    transition: all 0.3s ease;
+}
+
+window#waybar { background: transparent; }
+
+/* Global Module Styling */
+#custom-omarchy, #workspaces, #clock, #backlight, #network, #cpu, #bluetooth, #mpris, #pulseaudio,
+#battery, #custom-updates, #custom-weather, #custom-power, #custom-mic {
+    background: alpha(@background, 0.6);
+    border-radius: 14px;
+    padding: 0px 10px;
+    margin: 4px 3px;
+}
+
+/* --- Workspaces --- */
+#workspaces {
+    border: 2px solid #cdd6f4;
+    padding: 0px 2px;
+}
+
+#workspaces button {
+    padding: 0px 12px;
+    color: @text;
+    margin: 3px 1px;
+}
+
+/* Hover Effect: Changes to Light Green when mouse is over 1, 2, 3, 4... */
+#workspaces button:hover {
+    color: #1e1e2e;
+    background: #a6e3a1;     /* Light Green Hover */
+    border-radius: 10px;
+}
+
+#workspaces button.active {
+    color: #232829;
+    background: #f38ba8;
+    border-radius: 10px;
+}
+
+/* --- Colors & Borders --- */
+#clock { color: #89b4fa; border: 2px solid #89b4fa; }
+#network { color: #a6e3a1; border: 2px solid #a6e3a1; }
+#custom-weather { color: #f9e2af; border: 2px solid #f9e2af; }
+#mpris { color: #f38ba8; border: 2px solid #f38ba8; }
+#cpu { color: #cba6f7; border: 2px solid #cba6f7; }
+#bluetooth { color: #89b4fa; border: 2px solid #89b4fa; }
+#custom-updates { color: #fab387; border: 2px solid #fab387; }
+#pulseaudio { color: #89dceb; border: 2px solid #89dceb; }
+#custom-power, #custom-omarchy { color: #f38ba8; border: 2px solid #f38ba8; }
+#custom-mic { color: #89dceb; border: 2px solid #89dceb; }
+
+/* --- Battery Personalization (Lighter Colors) --- */
+
+/* Non-Charging: Light Mint Green */
+#battery {
+    color: #94e2d5;
+    border: 2px solid #94e2d5;
+}
+
+/* Charging: Light Peach/Orange */
+#battery.charging, #battery.plugged {
+    color: #f9e2af;
+    border: 2px solid #f9e2af;
+    background: alpha(@background, 0.6);
+    animation: none;
+}
+
+#battery.warning:not(.charging) {
+    color: #fab387;
+    border: 2px solid #fab387;
+}
+
+#backlight {
+    color: #f9e2af;
+    border: 2px solid #f9e2af;
+}
+
+#custom-mic.active {
+    color: #a6e3a1;
+    padding-left: 8px;
+    padding-right: 7px;
+}
+
+#custom-mic.muted {
+    color: #f38ba8;
+    padding-left: 12px;
+    padding-right: 10px;
+}

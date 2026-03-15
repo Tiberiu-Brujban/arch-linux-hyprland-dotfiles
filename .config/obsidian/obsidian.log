@@ -1,0 +1,89 @@
+2026-02-22 16:28:20 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-02-22 16:28:20 Checking for update using Github
+2026-02-22 16:28:21 Success.
+2026-02-22 16:28:21 Latest version is 1.11.7
+2026-02-22 16:28:21 App is up to date.
+2026-02-22 16:30:16 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-02-22 16:30:16 Checking for update using Github
+2026-02-22 16:30:16 Success.
+2026-02-22 16:30:16 Latest version is 1.11.7
+2026-02-22 16:30:16 App is up to date.
+2026-02-22 16:31:48 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-02-22 16:31:48 Checking for update using Github
+2026-02-22 16:31:48 Success.
+2026-02-22 16:31:48 Latest version is 1.11.7
+2026-02-22 16:31:48 App is up to date.
+2026-02-28 09:55:02 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-02-28 09:55:03 Checking for update using Github
+2026-02-28 09:55:03 Success.
+2026-02-28 09:55:03 Latest version is 1.12.4
+2026-02-28 09:55:03 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian-1.12.4.asar.gz
+2026-02-28 09:55:04 Verifying hash & signature. Size= 8322418
+2026-02-28 09:55:04 Saving file
+2026-02-28 09:55:04 Update complete.
+2026-02-28 09:55:42 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-02-28 09:55:42 Checking for update using Github
+2026-02-28 09:55:42 Success.
+2026-02-28 09:55:42 Latest version is 1.12.4
+2026-02-28 09:55:42 App is up to date.
+2026-02-28 10:03:41 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-02-28 10:03:41 Checking for update using Github
+2026-02-28 10:03:41 Success.
+2026-02-28 10:03:41 Latest version is 1.12.4
+2026-02-28 10:03:41 App is up to date.
+2026-02-28 20:59:02 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-02-28 20:59:02 Checking for update using Github
+2026-02-28 20:59:02 Success.
+2026-02-28 20:59:02 Latest version is 1.12.4
+2026-02-28 20:59:02 App is up to date.
+2026-02-28 21:59:02 Checking for update using Github
+2026-02-28 21:59:02 Success.
+2026-02-28 21:59:02 Latest version is 1.12.4
+2026-02-28 21:59:02 App is up to date.
+2026-02-28 22:59:02 Checking for update using Github
+2026-02-28 22:59:02 Success.
+2026-02-28 22:59:02 Latest version is 1.12.4
+2026-02-28 22:59:02 App is up to date.
+2026-02-28 23:59:02 Checking for update using Github
+2026-02-28 23:59:02 Success.
+2026-02-28 23:59:02 Latest version is 1.12.4
+2026-02-28 23:59:02 App is up to date.
+2026-03-01 00:59:02 Checking for update using Github
+2026-03-01 00:59:02 Success.
+2026-03-01 00:59:02 Latest version is 1.12.4
+2026-03-01 00:59:02 App is up to date.
+2026-03-01 10:14:20 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-03-01 10:14:20 Checking for update using Github
+2026-03-01 10:14:20 Success.
+2026-03-01 10:14:20 Latest version is 1.12.4
+2026-03-01 10:14:20 App is up to date.
+2026-03-01 14:47:12 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-03-01 14:47:12 Checking for update using Github
+2026-03-01 14:47:12 Success.
+2026-03-01 14:47:12 Latest version is 1.12.4
+2026-03-01 14:47:12 App is up to date.
+2026-03-04 04:59:18 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-03-04 04:59:19 Checking for update using Github
+2026-03-04 04:59:19 Success.
+2026-03-04 04:59:19 Latest version is 1.12.4
+2026-03-04 04:59:19 App is up to date.
+2026-03-04 21:06:51 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-03-04 21:06:51 Checking for update using Github
+2026-03-04 21:06:51 Success.
+2026-03-04 21:06:51 Latest version is 1.12.4
+2026-03-04 21:06:51 App is up to date.
+2026-03-04 21:07:21 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-03-04 21:07:21 Checking for update using Github
+2026-03-04 21:07:21 Success.
+2026-03-04 21:07:21 Latest version is 1.12.4
+2026-03-04 21:07:21 App is up to date.
+2026-03-04 22:13:28 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-03-04 22:13:28 Checking for update using Github
+2026-03-04 22:13:29 Success.
+2026-03-04 22:13:29 Latest version is 1.12.4
+2026-03-04 22:13:29 App is up to date.
+2026-03-07 17:31:01 Loaded updated app package /home/tjb1/.config/obsidian/obsidian-1.12.4.asar
+2026-03-07 17:31:02 Checking for update using Github
+2026-03-07 17:31:02 Success.
+2026-03-07 17:31:02 Latest version is 1.12.4
+2026-03-07 17:31:02 App is up to date.
